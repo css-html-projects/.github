@@ -10,6 +10,7 @@ Each project focuses on core frontend concepts including responsive design, layo
 ## Projects Included
 
 * **expense-tracker** — a web application for tracking income and expenses with local storage
+* **kanban-board** — an interactive task management application built with React and TypeScript, featuring drag-and-drop functionality and persistent state
 * **rock-paper-scissors** — a simple interactive game built with JavaScript
 * **landing-mate-academy** — a responsive landing page created during a layout course
 * **green-nest** — a landing page template for an online plant store
